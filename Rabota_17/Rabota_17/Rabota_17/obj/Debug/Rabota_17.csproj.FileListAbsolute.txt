@@ -1,0 +1,11 @@
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.csproj.AssemblyReference.cache
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.csproj.ResolveComReference.cache
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.Properties.Resources.resources
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.csproj.GenerateResource.cache
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.csproj.CoreCompileInputs.cache
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\bin\Debug\Rabota_17.exe.config
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\bin\Debug\Rabota_17.exe
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\bin\Debug\Rabota_17.pdb
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.exe
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.pdb
+C:\Users\ЕГОР\source\repos\Rabota_17\Rabota_17\obj\Debug\Rabota_17.WordApp.resources
