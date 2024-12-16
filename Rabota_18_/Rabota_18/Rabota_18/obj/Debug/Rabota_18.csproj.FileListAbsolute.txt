@@ -1,0 +1,13 @@
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.csproj.AssemblyReference.cache
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.csproj.ResolveComReference.cache
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.Properties.Resources.resources
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.csproj.GenerateResource.cache
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.csproj.CoreCompileInputs.cache
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\bin\Debug\Rabota_18.exe.config
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\bin\Debug\Rabota_18.exe
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\bin\Debug\Rabota_18.pdb
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.exe
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.pdb
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\bin\Debug\ExcelSupport.dll
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.csproj.CopyComplete
+C:\Users\ЕГОР\source\repos\Rabota_18\Rabota_18\obj\Debug\Rabota_18.Rabota_18.resources
