@@ -1,0 +1,19 @@
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.csproj.AssemblyReference.cache
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.Nomograms.resources
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.Properties.Resources.resources
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.csproj.GenerateResource.cache
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.csproj.CoreCompileInputs.cache
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\bin\Debug\Rabota_20.exe.config
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\bin\Debug\Rabota_20.exe
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\bin\Debug\Rabota_20.pdb
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.exe
+C:\Users\ЕГОР\source\repos\Rabota_20\Rabota_20\obj\Debug\Rabota_20.pdb
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\bin\Debug\Rabota_20.exe.config
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\bin\Debug\Rabota_20.exe
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\bin\Debug\Rabota_20.pdb
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\obj\Debug\Rabota_20.csprojAssemblyReference.cache
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\obj\Debug\Rabota_20.Nomograms.resources
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\obj\Debug\Rabota_20.Properties.Resources.resources
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\obj\Debug\Rabota_20.csproj.GenerateResource.cache
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\obj\Debug\Rabota_20.exe
+c:\Users\flash\Documents\ТУУ-211 (2024)\02 Волобуев\TYY-211-1\Rabota_20\Rabota_20\Rabota_20\obj\Debug\Rabota_20.pdb
